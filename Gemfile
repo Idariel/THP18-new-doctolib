@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 # authentification
 #gem 'devise'
 #gem 'pundit'
-
+ruby '2.3.4'
 gem 'rails'
 gem 'puma'
 gem 'sass-rails'
